@@ -1,0 +1,118 @@
+body{
+    background-position: top left;
+}
+
+main{
+    width: 600px;
+    height: 600px;
+    background: black;
+    background-position: top left;
+}
+
+.blok{
+    float: left;
+}
+
+#blok-01{
+    background: white;
+    height: 400px;
+    width: 80px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+#blok-02{
+    height: 400px;
+    width: 55px;
+    background: rgb(45, 46, 121);
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#blok-03{
+    height: 400px;
+    width: 55px;
+    background: rgb(255, 255, 255);
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#blok-04{
+    height: 400px;
+    width: 55px;
+    background: black;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#blok-05{
+    height: 160px;
+    width: 160px;
+    background: rgb(30, 82, 161);
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#blok-06{
+    height: 160px;
+    width: 160px;
+    background: rgb(211, 18, 18);
+    margin-left: 5px;
+    margin-top: 5px; 
+}
+
+#blok-07{
+    height: 60px;
+    width: 305px;
+    background: black;
+    margin-left: 5px;
+    margin-top: 5px;  
+}
+
+#blok-08{
+    height: 50px;
+    width: 325px;
+    background: rgb(255, 230, 0);
+    margin-left: 5px;
+    margin-top: 5px;  
+}
+
+#blok-09{
+    height: 115px;
+    width: 325px;
+    background: white;
+    margin-left: 5px;
+    margin-top: 5px;  
+}
+
+#blok-10{
+    height: 90px;
+    width: 50px;
+    background: rgb(45, 46, 121);
+    margin-left: 215px; 
+    margin-top: 5px;
+}
+
+#blok-11{
+    height: 95px;
+    width: 325px;
+    background: white;
+    margin-left: 5px; 
+}
+
+#blok-12{
+    height: 90px;
+    width: 50px;
+    background: white;
+    margin-left: 215px; 
+    margin-top: 5px;
+}
+
+#blok-13{
+    height: 90px;
+    width: 325px;
+    background: rgb(45, 46, 121);
+    margin-top: 5px;
+    margin-left: 5px;
+}
